@@ -36,11 +36,7 @@
   - The original [CodeKatas](http://codekata.com/)
   - [JavaScript30](https://javascript30.com/)  
     30 Day Vanilla JS Coding Challenge  
-    tags: [projects, videos]  
-  - [FunFunFunction: ES6 JavaScript Features](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm)  
-    tags: [videos]  
-  - [FunFunFunction: Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)  
-    tags: [videos]  
+    tags: [projects, videos]
   - [Full Stack Radio](http://www.fullstackradio.com/)  
     tags: [podcasts]  
   - [Front End Happy Hour](http://frontendhappyhour.com/)  
@@ -56,6 +52,14 @@
     Host Veronica Belmont shares real stories of life online and real talk about the future of the Web.  
     IRL is an original podcast from Mozilla.  
     tags: [podcasts]  
+
+### ES6 / EcmaScript 2015  
+ - [FunFunFunction: ES6 JavaScript Features](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm)  
+tags: [videos]  
+
+### Functional JS  
+ - [FunFunFunction: Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)  
+tags: [videos]  
 
 ## HTML
  - [Mozilla Developer Network (MDN): HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
