@@ -47,6 +47,9 @@
 ### Originally for Python but now includes other languages, with more coming
  - [learn python the hard way](https://learncodethehardway.org/python/)
  
+## Markdown
+ - [Markdown tutorial](http://www.markdowntutorial.com/)
+ - [Github markdown guide](https://guides.github.com/features/mastering-markdown/)
 
 ## Frameworks
  -
