@@ -37,6 +37,12 @@
 ## Tools
  - [make a gitignore file for your setup](http://gitignore.io)
 
+## Node
+ - [learnyounode](https://github.com/workshopper/learnyounode)
+
+## Regex
+ - [tryregex](http://tryregex.com/)
+
 ## Frameworks
  -
 
