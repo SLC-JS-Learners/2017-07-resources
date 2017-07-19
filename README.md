@@ -68,6 +68,7 @@
 
 ## RegExp
  - [RegexOne](https://www.regexone.com/)  
+ - [tryregex](http://tryregex.com/)
 
 ## Git
  - [make a gitignore file for your setup](http://gitignore.io)
@@ -75,6 +76,7 @@
 ## Command Line (CLI)  
 
 ### Bash  
+ - [Using the command line aka terminal or CMD](https://www.codecademy.com/learn/learn-the-command-line)
  - [Using bash on Windows 10](https://msdn.microsoft.com/en-us/commandline/wsl/about)
  - [codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
  - [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
@@ -84,9 +86,6 @@
 
 ## Node
  - [learnyounode](https://github.com/workshopper/learnyounode)
-
-## Regex
- - [tryregex](http://tryregex.com/)
 
 ## The Hard Way
 #### Originally only Python
