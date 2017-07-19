@@ -96,7 +96,12 @@
  - [ReactCasts with @cassiozen](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)  
    Biweekly, short React screencasts containing tips, tricks and tutorials.  
    tags: [video, series, mid-level]
- - [React Express](http://www.react.express/) 
+ - [React Express](http://www.react.express/)  
+   An all-in-one guide to modern React application developement
+ - [SurviveJS React Guide](https://survivejs.com/react/introduction/)  
+   This the free online version
+ - [creat-react-app](https://github.com/facebookincubator/create-react-app)  
+   CLI tool used to set up React projects. Very useful as setting up a dev environment for React can be complicated
 
 ### Vue
  -
