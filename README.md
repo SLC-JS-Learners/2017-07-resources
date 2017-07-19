@@ -7,6 +7,7 @@
   - With this file in focus `cmd-shift-P` to open the command pallet and run `mind` to get the preview
 
 ## General JavaScript
+  - [Mozilla Developer Network(MDN): JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [FreeCodeCamp.com](http://www.freecodecamp.com/)
   - [NodeSchool Workshoppers](http://nodeschool.io/#workshopper-list)
   - [CodeWars Katas](http://www.codewars.com/kata/search/javascript?q=&beta=false&order_by=rank_id+asc)
@@ -22,12 +23,39 @@
   - [JavaScript30](https://javascript30.com/)  
     30 Day Vanilla JS Coding Challenge  
     tags: [projects, videos]  
+  - [FunFunFunction: ES6 JavaScript Features](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm)  
+    tags: [videos]  
+  - [FunFunFunction: Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)  
+    tags: [videos]  
+  - [Full Stack Radio](http://www.fullstackradio.com/)  
+    tags: [podcasts]  
+  - [Front End Happy Hour](http://frontendhappyhour.com/)  
+    A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.  
+    tags: [podcasts]  
+  - [Shop Talk Show](http://shoptalkshow.com/)  
+    An internet radio show about the internet starring Dave Rupert and Chris Coyier.  
+    tags: [podcasts]  
+  - [Toolsday](http://www.toolsday.io/)  
+    Toolsday is a 20-ish-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The podcast is brought to you by Chris Dhanaraj and Una Kravets.  
+    tags: [podcasts]  
+  - [IRL](https://irlpodcast.org)  
+    Host Veronica Belmont shares real stories of life online and real talk about the future of the Web.  
+    IRL is an original podcast from Mozilla.  
+    tags: [podcasts]  
 
 ## HTML
  - [Mozilla Developer Network (MDN): HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## CSS
  - [Mozilla Developer Network (MDN): CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Flexbox
+ - [Flexbox Froggy](http://flexboxfroggy.com/)
+   Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code!
+ - [Flexbox Defense](http://www.flexboxdefense.com/)
+ - [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
+ - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+ - [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
 ## A11y
  - [The A11Y Project: Resources](http://a11yproject.com/resources.html)
