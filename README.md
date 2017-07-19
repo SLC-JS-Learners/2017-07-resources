@@ -35,6 +35,8 @@
  - [ShopTalk: 272 Color Accessibility with Geri Coady](http://shoptalkshow.com/episodes/272-color-accessibility-geri-coady/) #podcast
 
 ## Tools
+ - [Using the command line aka terminal or CMD](https://www.codecademy.com/learn/learn-the-command-line)
+ - [Understanding the command line](http://geekblog.oneandoneis2.org/index.php/2012/09/30/to-understand-the-command-line)
  - [make a gitignore file for your setup](http://gitignore.io)
 
 ## Node
