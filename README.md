@@ -43,6 +43,11 @@
 ## Regex
  - [tryregex](http://tryregex.com/)
 
+## The Hard Way
+### Originally for Python but now includes other languages, with more coming
+ - [learn python the hard way](https://learncodethehardway.org/python/)
+ 
+
 ## Frameworks
  -
 
