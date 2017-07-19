@@ -75,6 +75,7 @@
 
 ## Git
  - [make a gitignore file for your setup](http://gitignore.io)
+ - ['git commit' Wording Guidelines](https://chris.beams.io/posts/git-commit/)
 
 ## Command Line (CLI)  
 
