@@ -3,6 +3,8 @@
 ## To see the MindMap in Atom
  - We're using https://atom.io/packages/markdown-mindmap for visualization
   - With Atom already installed, from a terminal run `apm install markdown-mindmap`
+  -'cmd-q' to restart atom
+  - reopen atom
   - Open this file within Atom.
   - With this file in focus `cmd-shift-P` to open the command pallet and run `mind` to get the preview
 
