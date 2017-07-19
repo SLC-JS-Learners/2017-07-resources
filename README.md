@@ -24,6 +24,9 @@
   - [JavaScript30](https://javascript30.com/)  
     30 Day Vanilla JS Coding Challenge  
     tags: [projects, videos]  
+  - [JavaScript30](https://javascript30.com/)  
+    30 Day Vanilla JS Coding Challenge  
+    tags: [projects, videos]
 
 ## HTML
  - [Mozilla Developer Network (MDN): HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
