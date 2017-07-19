@@ -103,7 +103,7 @@
  -
 
 ### Angular
- -
+ - [Free AngularJS Class](https://www.codeschool.com/courses/shaping-up-with-angularjs)
 
 ### React
  - [Official React Docs](https://facebook.github.io/react/docs/hello-world.html)  
