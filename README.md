@@ -69,8 +69,18 @@
 ## RegExp
  - [RegexOne](https://www.regexone.com/)  
 
-## Tools
+## Git
  - [make a gitignore file for your setup](http://gitignore.io)
+
+## Command Line (CLI)  
+
+### Bash  
+ - [Using bash on Windows 10](https://msdn.microsoft.com/en-us/commandline/wsl/about)
+ - [codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+ - [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+
+### zsh (z-shell)
+ - [Command Line Power User](http://wesbos.com/command-line-video-tutorials/)
 
 ## Node
  - [learnyounode](https://github.com/workshopper/learnyounode)
@@ -81,6 +91,7 @@
 ## The Hard Way
 #### Originally only Python
  - [learn python the hard way](https://learncodethehardway.org/python/)
+ - [learn linux the hard way](https://learncodethehardway.org/unix/)
 
 ## Markdown
  - [Markdown tutorial](http://www.markdowntutorial.com/)
