@@ -61,6 +61,9 @@
  - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
  - [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
+## Git
+ - [Udacity How to Use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+
 ## A11y
  - [The A11Y Project: Resources](http://a11yproject.com/resources.html)
  - [Front End Happy Hour: a11y Cocktail](http://frontendhappyhour.com/episodes/a11y-cocktail/)
