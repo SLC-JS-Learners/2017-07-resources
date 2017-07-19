@@ -3,6 +3,8 @@
 ## To see the MindMap in Atom
  - We're using https://atom.io/packages/markdown-mindmap for visualization
   - With Atom already installed, from a terminal run `apm install markdown-mindmap`
+  -'cmd-q' to restart atom
+  - reopen atom
   - Open this file within Atom.
   - With this file in focus `cmd-shift-P` to open the command pallet and run `mind` to get the preview
 
@@ -63,7 +65,10 @@
  - [ShopTalk: 272 Color Accessibility with Geri Coady](http://shoptalkshow.com/episodes/272-color-accessibility-geri-coady/) #podcast
 
 ## RegExp
- - [RegexOne](https://www.regexone.com/)
+ - [RegexOne](https://www.regexone.com/)  
+
+## Tools
+ - [make a gitignore file for your setup](http://gitignore.io)
 
 ## Frameworks
  -
