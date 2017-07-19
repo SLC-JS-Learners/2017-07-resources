@@ -11,6 +11,16 @@
   - With this file in focus `cmd-shift-P` to open the command pallet and run `mind` to get the preview
 
 ## General JavaScript
+  - [UtahJS Meetups](https://www.meetup.com/UtahJS/)  
+    - 1st Saturdays - SLC JS Learners' Study Group  
+    - 1st Tuesdays - Ogden.js Meetups  
+    - 1st Tuesdays - Orem Meetups (Thanksgiving Point)  
+    - 3rd Saturdays - SLC JS Learners' & FreeCodeCamp Meetups  
+    - 3rd Tuesdays - SLC JS Learners Meetups  
+    - 3rd Tuesdays - UtahJS Meetup (SLC)  
+  - [UtahJS 2017 Conference](https://conf.utahjs.com/) - Mon, Sep 18th  
+  - [UtahJS Slack Channel invitation](https://slack.utahjs.com/)
+  - [Front-End Developers Group (MOJO)](https://www.meetup.com/MOJO-FE-Developer-Meetup/)
   - [Mozilla Developer Network(MDN): JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [FreeCodeCamp.com](http://www.freecodecamp.com/)
   - [NodeSchool Workshoppers](http://nodeschool.io/#workshopper-list)
@@ -52,10 +62,18 @@
 
 ## CSS
  - [Mozilla Developer Network (MDN): CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+ - [Don't use flexbox for overall page layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
+   When, where, and how to use Flexbox vs CSS Grid
+
+### CSS Grid
+ - [Grid Garden](http://cssgridgarden.com/)  
+   A game for learning CSS grid layout  
+ - [moz://a css grid](https://www.mozilla.org/en-US/developer/css-grid/)
+   includes demos, how to use Firefox's DevTools, & additional resources
 
 ### Flexbox
  - [Flexbox Froggy](http://flexboxfroggy.com/)
-   Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code!
+   A game where you help Froggy and friends by writing CSS code!
  - [Flexbox Defense](http://www.flexboxdefense.com/)
  - [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
  - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
@@ -95,20 +113,22 @@
  - [Command Line Power User](http://wesbos.com/command-line-video-tutorials/)
 
 ## Node
+ - [Utah Node.js - Salt Lake City Meetup](https://www.meetup.com/utahnodejs/)
  - [learnyounode](https://github.com/workshopper/learnyounode)
 
 ## The Hard Way
-#### Originally only Python
+### Originally only Python
  - [learn python the hard way](https://learncodethehardway.org/python/)  
 
 ## Markdown
  - [Markdown tutorial](http://www.markdowntutorial.com/)  
  - [Github markdown guide](https://guides.github.com/features/mastering-markdown/)  
 
-## Frameworks
+## JavaScript Frameworks
  - _HINT_: Don't try to learn multiple frameworks at one time.  Get comfortable with vanilla JS, then learn a single framework, and only then should you add a second framework _or_ a second language.
 
 ### Angular
+ - [Angular Utah Meetup](https://www.meetup.com/AngularJS-Utah/)
  - [Free AngularJS Class](https://www.codeschool.com/courses/shaping-up-with-angularjs)  
 
 ### React
