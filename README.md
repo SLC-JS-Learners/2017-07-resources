@@ -10,6 +10,11 @@
   - Open this file within Atom.
   - With this file in focus `cmd-shift-P` to open the command pallet and run `mind` to get the preview
 
+## GIT / GITHUB  
+  - [GitHub's own tutorial](https://try.github.io/levels/1/challenges/1)  
+  - [Atlassian's git tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)  
+  - [Michael Schwern's Excellent Explanation of Git - with toys](https://www.youtube.com/watch?v=1ffBJ4sVUb4/)
+
 ## General JavaScript
   - [Mozilla Developer Network(MDN): JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [FreeCodeCamp.com](http://www.freecodecamp.com/)
