@@ -43,7 +43,7 @@
  -
 
 ### Angular
- -
+ - [Free AngularJS Class](https://www.codeschool.com/courses/shaping-up-with-angularjs)
 
 ### React
  - [ReactCasts with @cassiozen](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)  
