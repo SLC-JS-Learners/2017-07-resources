@@ -99,7 +99,7 @@
  - [React Express](http://www.react.express/)  
    An all-in-one guide to modern React application developement
  - [SurviveJS React Guide](https://survivejs.com/react/introduction/)  
-   This the free online version
+   This is the free online version of the book
  - [creat-react-app](https://github.com/facebookincubator/create-react-app)  
    CLI tool used to set up React projects. Very useful as setting up a dev environment for React can be complicated
 
