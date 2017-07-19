@@ -93,6 +93,8 @@
  -
 
 ### React
+ - [Official React Docs](https://facebook.github.io/react/docs/hello-world.html)  
+   Offical React Docs, contains some tutorials as well as the API
  - [ReactCasts with @cassiozen](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)  
    Biweekly, short React screencasts containing tips, tricks and tutorials.  
    tags: [video, series, mid-level]
