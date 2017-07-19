@@ -11,7 +11,7 @@
   - With this file in focus `cmd-shift-P` to open the command pallet and run `mind` to get the preview
 
 ## General JavaScript
-  - [UtahJS Meetups](https://www.meetup.com/UtahJS/)  
+  - [UtahJS Meetups](https://www.meetup.com/UtahJS/) tags: [meetups]  
     - 1st Saturdays - SLC JS Learners' Study Group  
     - 1st Tuesdays - Ogden.js Meetups  
     - 1st Tuesdays - Orem Meetups (Thanksgiving Point)  
@@ -19,8 +19,10 @@
     - 3rd Tuesdays - SLC JS Learners Meetups  
     - 3rd Tuesdays - UtahJS Meetup (SLC)  
   - [UtahJS 2017 Conference](https://conf.utahjs.com/) - Mon, Sep 18th  
+    tags: [meetups]  
   - [UtahJS Slack Channel invitation](https://slack.utahjs.com/)
   - [Front-End Developers Group (MOJO)](https://www.meetup.com/MOJO-FE-Developer-Meetup/)
+    tags: [meetups]  
   - [Mozilla Developer Network(MDN): JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [FreeCodeCamp.com](http://www.freecodecamp.com/)
   - [NodeSchool Workshoppers](http://nodeschool.io/#workshopper-list)
@@ -132,10 +134,13 @@ tags: [videos]
  - _HINT_: Don't try to learn multiple frameworks at one time.  Get comfortable with vanilla JS, then learn a single framework, and only then should you add a second framework _or_ a second language.
 
 ### Angular
- - [Angular Utah Meetup](https://www.meetup.com/AngularJS-Utah/)
+ - [Angular Utah Meetup](https://www.meetup.com/AngularJS-Utah/)  
+ tags: [meetups]  
  - [Free AngularJS Class](https://www.codeschool.com/courses/shaping-up-with-angularjs)  
 
 ### React
+ - [ReactJS Utah](https://www.meetup.com/ReactJS-Utah/)  
+   tags: [meetups]  
  - [Official React Docs](https://facebook.github.io/react/docs/hello-world.html)  
    Offical React Docs, contains some tutorials as well as the API  
  - [ReactCasts with @cassiozen](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)  
