@@ -10,11 +10,6 @@
   - Open this file within Atom.
   - With this file in focus `cmd-shift-P` to open the command pallet and run `mind` to get the preview
 
-## GIT / GITHUB  
-  - [GitHub's own tutorial](https://try.github.io/levels/1/challenges/1)  
-  - [Atlassian's git tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)  
-  - [Michael Schwern's Excellent Explanation of Git - with toys](https://www.youtube.com/watch?v=1ffBJ4sVUb4/)
-
 ## General JavaScript
   - [Mozilla Developer Network(MDN): JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [FreeCodeCamp.com](http://www.freecodecamp.com/)
@@ -67,7 +62,16 @@
  - [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
 ## Git
- - [Udacity How to Use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+  - [Michael Schwern's Excellent Explanation of Git - with toys](https://www.youtube.com/watch?v=1ffBJ4sVUb4/)
+  - [Udacity How to Use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)  
+  - [generate a gitignore file for your setup](http://gitignore.io)  
+  - ['git commit' Wording Guidelines](https://chris.beams.io/posts/git-commit/)  
+
+### GitHub
+  - [GitHub's own tutorial](https://try.github.io/levels/1/challenges/1)  
+
+### BitBucket
+  - [Atlassian's git tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)  
 
 ## A11y
  - [The A11Y Project: Resources](http://a11yproject.com/resources.html)
@@ -78,17 +82,14 @@
  - [RegexOne](https://www.regexone.com/)  
  - [tryregex](http://tryregex.com/)
 
-## Git
- - [make a gitignore file for your setup](http://gitignore.io)
- - ['git commit' Wording Guidelines](https://chris.beams.io/posts/git-commit/)
-
 ## Command Line (CLI)  
 
 ### Bash  
- - [Using the command line aka terminal or CMD](https://www.codecademy.com/learn/learn-the-command-line)
- - [Using bash on Windows 10](https://msdn.microsoft.com/en-us/commandline/wsl/about)
- - [codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
- - [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+ - [Using the command line aka terminal or CMD](https://www.codecademy.com/learn/learn-the-command-line)  
+ - [Using bash on Windows 10](https://msdn.microsoft.com/en-us/commandline/wsl/about)  
+ - [codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)  
+ - [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)  
+ - [learn linux the hard way](https://learncodethehardway.org/unix/)  
 
 ### zsh (z-shell)
  - [Command Line Power User](http://wesbos.com/command-line-video-tutorials/)
@@ -98,31 +99,30 @@
 
 ## The Hard Way
 #### Originally only Python
- - [learn python the hard way](https://learncodethehardway.org/python/)
- - [learn linux the hard way](https://learncodethehardway.org/unix/)
+ - [learn python the hard way](https://learncodethehardway.org/python/)  
 
 ## Markdown
- - [Markdown tutorial](http://www.markdowntutorial.com/)
- - [Github markdown guide](https://guides.github.com/features/mastering-markdown/)
+ - [Markdown tutorial](http://www.markdowntutorial.com/)  
+ - [Github markdown guide](https://guides.github.com/features/mastering-markdown/)  
 
 ## Frameworks
- -
+ - _HINT_: Don't try to learn multiple frameworks at one time.  Get comfortable with vanilla JS, then learn a single framework, and only then should you add a second framework _or_ a second language.
 
 ### Angular
- - [Free AngularJS Class](https://www.codeschool.com/courses/shaping-up-with-angularjs)
+ - [Free AngularJS Class](https://www.codeschool.com/courses/shaping-up-with-angularjs)  
 
 ### React
  - [Official React Docs](https://facebook.github.io/react/docs/hello-world.html)  
-   Offical React Docs, contains some tutorials as well as the API
+   Offical React Docs, contains some tutorials as well as the API  
  - [ReactCasts with @cassiozen](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)  
    Biweekly, short React screencasts containing tips, tricks and tutorials.  
-   tags: [video, series, mid-level]
+   tags: [video, series, mid-level]  
  - [React Express](http://www.react.express/)  
    An all-in-one guide to modern React application development
  - [SurviveJS React Guide](https://survivejs.com/react/introduction/)  
-   This is the free online version of the book
- - [creat-react-app](https://github.com/facebookincubator/create-react-app)  
-   CLI tool used to set up React projects, Very useful as setting up a dev environment for React can be complicated
+   This is the free online version of the book  
+ - [create-react-app](https://github.com/facebookincubator/create-react-app)  
+   CLI tool used to set up React project, very useful, as setting up a dev environment for React can be complicated.  
 
 ### Vue
  -
