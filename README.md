@@ -68,6 +68,7 @@
 
 ## RegExp
  - [RegexOne](https://www.regexone.com/)  
+ - [tryregex](http://tryregex.com/)
 
 ## Tools
  - [Using the command line aka terminal or CMD](https://www.codecademy.com/learn/learn-the-command-line)
@@ -76,9 +77,6 @@
 
 ## Node
  - [learnyounode](https://github.com/workshopper/learnyounode)
-
-## Regex
- - [tryregex](http://tryregex.com/)
 
 ## The Hard Way
 #### Originally only Python
