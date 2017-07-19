@@ -8,6 +8,9 @@
   - Open this file within Atom.
   - With this file in focus `cmd-shift-P` to open the command pallet and run `mind` to get the preview
 
+## GIT / GITHUB  
+  - [Michael Schwern's Excellent Explanation of Git - with toys](https://www.youtube.com/watch?v=1ffBJ4sVUb4/)
+
 ## General JavaScript
   - [FreeCodeCamp.com](http://www.freecodecamp.com/)
   - [NodeSchool Workshoppers](http://nodeschool.io/#workshopper-list)
