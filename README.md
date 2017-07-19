@@ -1,5 +1,7 @@
 # Resources for Learning Web Dev
 
+ - Press `ctr-shift-M` to preview this in the [Atom editor](https://atom.io/)
+
 ## To see the MindMap in Atom
  - We're using https://atom.io/packages/markdown-mindmap for visualization
   - With Atom already installed, from a terminal run `apm install markdown-mindmap`
@@ -66,20 +68,20 @@
 
 ## RegExp
  - [RegexOne](https://www.regexone.com/)  
+ - [tryregex](http://tryregex.com/)
 
 ## Tools
+ - [Using the command line aka terminal or CMD](https://www.codecademy.com/learn/learn-the-command-line)
+ - [Understanding the command line](http://geekblog.oneandoneis2.org/index.php/2012/09/30/to-understand-the-command-line)
  - [make a gitignore file for your setup](http://gitignore.io)
 
 ## Node
  - [learnyounode](https://github.com/workshopper/learnyounode)
 
-## Regex
- - [tryregex](http://tryregex.com/)
-
 ## The Hard Way
 #### Originally only Python
  - [learn python the hard way](https://learncodethehardway.org/python/)
- 
+
 ## Markdown
  - [Markdown tutorial](http://www.markdowntutorial.com/)
  - [Github markdown guide](https://guides.github.com/features/mastering-markdown/)
