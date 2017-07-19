@@ -74,6 +74,7 @@
  - [Using the command line aka terminal or CMD](https://www.codecademy.com/learn/learn-the-command-line)
  - [Understanding the command line](http://geekblog.oneandoneis2.org/index.php/2012/09/30/to-understand-the-command-line)
  - [make a gitignore file for your setup](http://gitignore.io)
+ - ['git commit' Wording Guidelines](https://chris.beams.io/posts/git-commit/)
 
 ## Node
  - [learnyounode](https://github.com/workshopper/learnyounode)
