@@ -34,6 +34,9 @@
  - [Front End Happy Hour: a11y Cocktail](http://frontendhappyhour.com/episodes/a11y-cocktail/)
  - [ShopTalk: 272 Color Accessibility with Geri Coady](http://shoptalkshow.com/episodes/272-color-accessibility-geri-coady/) #podcast
 
+## Tools
+ - [make a gitignore file for your setup](http://gitignore.io)
+
 ## Frameworks
  -
 
