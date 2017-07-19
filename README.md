@@ -70,6 +70,20 @@
 ## Tools
  - [make a gitignore file for your setup](http://gitignore.io)
 
+## Node
+ - [learnyounode](https://github.com/workshopper/learnyounode)
+
+## Regex
+ - [tryregex](http://tryregex.com/)
+
+## The Hard Way
+### Originally for Python but now includes other languages, with more coming
+ - [learn python the hard way](https://learncodethehardway.org/python/)
+ 
+## Markdown
+ - [Markdown tutorial](http://www.markdowntutorial.com/)
+ - [Github markdown guide](https://guides.github.com/features/mastering-markdown/)
+
 ## Frameworks
  -
 
