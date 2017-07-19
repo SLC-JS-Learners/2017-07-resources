@@ -1,5 +1,7 @@
 # Resources for Learning Web Dev
 
+ - Press `ctr-shift-M` to preview this in the [Atom editor](https://atom.io/)
+
 ## To see the MindMap in Atom
  - We're using https://atom.io/packages/markdown-mindmap for visualization
   - With Atom already installed, from a terminal run `apm install markdown-mindmap`
@@ -79,7 +81,7 @@
 ## The Hard Way
 ### Originally for Python but now includes other languages, with more coming
  - [learn python the hard way](https://learncodethehardway.org/python/)
- 
+
 ## Markdown
  - [Markdown tutorial](http://www.markdowntutorial.com/)
  - [Github markdown guide](https://guides.github.com/features/mastering-markdown/)
