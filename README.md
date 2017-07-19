@@ -61,6 +61,9 @@
  - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
  - [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
+## Git
+ - [Udacity How to Use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+
 ## A11y
  - [The A11Y Project: Resources](http://a11yproject.com/resources.html)
  - [Front End Happy Hour: a11y Cocktail](http://frontendhappyhour.com/episodes/a11y-cocktail/)
@@ -70,10 +73,19 @@
  - [RegexOne](https://www.regexone.com/)  
  - [tryregex](http://tryregex.com/)
 
-## Tools
- - [Using the command line aka terminal or CMD](https://www.codecademy.com/learn/learn-the-command-line)
- - [Understanding the command line](http://geekblog.oneandoneis2.org/index.php/2012/09/30/to-understand-the-command-line)
+## Git
  - [make a gitignore file for your setup](http://gitignore.io)
+
+## Command Line (CLI)  
+
+### Bash  
+ - [Using the command line aka terminal or CMD](https://www.codecademy.com/learn/learn-the-command-line)
+ - [Using bash on Windows 10](https://msdn.microsoft.com/en-us/commandline/wsl/about)
+ - [codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+ - [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+
+### zsh (z-shell)
+ - [Command Line Power User](http://wesbos.com/command-line-video-tutorials/)
 
 ## Node
  - [learnyounode](https://github.com/workshopper/learnyounode)
@@ -81,6 +93,7 @@
 ## The Hard Way
 #### Originally only Python
  - [learn python the hard way](https://learncodethehardway.org/python/)
+ - [learn linux the hard way](https://learncodethehardway.org/unix/)
 
 ## Markdown
  - [Markdown tutorial](http://www.markdowntutorial.com/)
