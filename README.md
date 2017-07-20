@@ -11,6 +11,18 @@
   - With this file in focus `cmd-shift-P` to open the command pallet and run `mind` to get the preview
 
 ## General JavaScript
+  - [UtahJS Meetups](https://www.meetup.com/UtahJS/) tags: [meetups]  
+    - 1st Saturdays - SLC JS Learners' Study Group  
+    - 1st Tuesdays - Ogden.js Meetups  
+    - 1st Tuesdays - Orem Meetups (Thanksgiving Point)  
+    - 3rd Saturdays - SLC JS Learners' & FreeCodeCamp Meetups  
+    - 3rd Tuesdays - SLC JS Learners Meetups  
+    - 3rd Tuesdays - UtahJS Meetup (SLC)  
+  - [UtahJS 2017 Conference](https://conf.utahjs.com/) - Mon, Sep 18th  
+    tags: [meetups]  
+  - [UtahJS Slack Channel invitation](https://slack.utahjs.com/)
+  - [Front-End Developers Group (MOJO)](https://www.meetup.com/MOJO-FE-Developer-Meetup/)
+    tags: [meetups]  
   - [Mozilla Developer Network(MDN): JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [FreeCodeCamp.com](http://www.freecodecamp.com/)
   - [NodeSchool Workshoppers](http://nodeschool.io/#workshopper-list)
@@ -26,11 +38,7 @@
   - The original [CodeKatas](http://codekata.com/)
   - [JavaScript30](https://javascript30.com/)  
     30 Day Vanilla JS Coding Challenge  
-    tags: [projects, videos]  
-  - [FunFunFunction: ES6 JavaScript Features](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm)  
-    tags: [videos]  
-  - [FunFunFunction: Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)  
-    tags: [videos]  
+    tags: [projects, videos]
   - [Full Stack Radio](http://www.fullstackradio.com/)  
     tags: [podcasts]  
   - [Front End Happy Hour](http://frontendhappyhour.com/)  
@@ -47,22 +55,47 @@
     IRL is an original podcast from Mozilla.  
     tags: [podcasts]  
 
+### ES6 / EcmaScript 2015  
+ - [FunFunFunction: ES6 JavaScript Features](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm)  
+tags: [videos]  
+
+### Functional JS  
+ - [FunFunFunction: Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)  
+tags: [videos]  
+
 ## HTML
  - [Mozilla Developer Network (MDN): HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## CSS
  - [Mozilla Developer Network (MDN): CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+ - [Don't use flexbox for overall page layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
+   When, where, and how to use Flexbox vs CSS Grid
+
+### CSS Grid
+ - [Grid Garden](http://cssgridgarden.com/)  
+   A game for learning CSS grid layout  
+ - [moz://a css grid](https://www.mozilla.org/en-US/developer/css-grid/)
+   includes demos, how to use Firefox's DevTools, & additional resources
 
 ### Flexbox
  - [Flexbox Froggy](http://flexboxfroggy.com/)
-   Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code!
+   A game where you help Froggy and friends by writing CSS code!
  - [Flexbox Defense](http://www.flexboxdefense.com/)
  - [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
  - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
  - [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
 ## Git
- - [Udacity How to Use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+  - [Michael Schwern's Excellent Explanation of Git - with toys](https://www.youtube.com/watch?v=1ffBJ4sVUb4/)
+  - [Udacity How to Use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)  
+  - [generate a gitignore file for your setup](http://gitignore.io)  
+  - ['git commit' Wording Guidelines](https://chris.beams.io/posts/git-commit/)  
+
+### GitHub
+  - [GitHub's own tutorial](https://try.github.io/levels/1/challenges/1)  
+
+### BitBucket
+  - [Atlassian's git tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)  
 
 ## A11y
  - [The A11Y Project: Resources](http://a11yproject.com/resources.html)
@@ -73,50 +106,52 @@
  - [RegexOne](https://www.regexone.com/)  
  - [tryregex](http://tryregex.com/)
 
-## Git
- - [make a gitignore file for your setup](http://gitignore.io)
-
 ## Command Line (CLI)  
 
 ### Bash  
- - [Using the command line aka terminal or CMD](https://www.codecademy.com/learn/learn-the-command-line)
- - [Using bash on Windows 10](https://msdn.microsoft.com/en-us/commandline/wsl/about)
- - [codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
- - [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+ - [Using the command line aka terminal or CMD](https://www.codecademy.com/learn/learn-the-command-line)  
+ - [Using bash on Windows 10](https://msdn.microsoft.com/en-us/commandline/wsl/about)  
+ - [codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)  
+ - [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)  
+ - [learn linux the hard way](https://learncodethehardway.org/unix/)  
 
 ### zsh (z-shell)
  - [Command Line Power User](http://wesbos.com/command-line-video-tutorials/)
 
 ## Node
+ - [Utah Node.js - Salt Lake City Meetup](https://www.meetup.com/utahnodejs/)
  - [learnyounode](https://github.com/workshopper/learnyounode)
 
 ## The Hard Way
-#### Originally only Python
- - [learn python the hard way](https://learncodethehardway.org/python/)
- - [learn linux the hard way](https://learncodethehardway.org/unix/)
+### Originally only Python
+ - [learn python the hard way](https://learncodethehardway.org/python/)  
 
 ## Markdown
- - [Markdown tutorial](http://www.markdowntutorial.com/)
- - [Github markdown guide](https://guides.github.com/features/mastering-markdown/)
+ - [Markdown tutorial](http://www.markdowntutorial.com/)  
+ - [Github markdown guide](https://guides.github.com/features/mastering-markdown/)  
 
-## Frameworks
- -
+## JavaScript Frameworks
+ - _HINT_: Don't try to learn multiple frameworks at one time.  Get comfortable with vanilla JS, then learn a single framework, and only then should you add a second framework _or_ a second language.
 
 ### Angular
- -
+ - [Angular Utah Meetup](https://www.meetup.com/AngularJS-Utah/)  
+ tags: [meetups]  
+ - [Free AngularJS Class](https://www.codeschool.com/courses/shaping-up-with-angularjs)  
 
 ### React
+ - [ReactJS Utah](https://www.meetup.com/ReactJS-Utah/)  
+   tags: [meetups]  
  - [Official React Docs](https://facebook.github.io/react/docs/hello-world.html)  
-   Offical React Docs, contains some tutorials as well as the API
+   Offical React Docs, contains some tutorials as well as the API  
  - [ReactCasts with @cassiozen](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)  
    Biweekly, short React screencasts containing tips, tricks and tutorials.  
-   tags: [video, series, mid-level]
+   tags: [video, series, mid-level]  
  - [React Express](http://www.react.express/)  
    An all-in-one guide to modern React application development
  - [SurviveJS React Guide](https://survivejs.com/react/introduction/)  
-   This is the free online version of the book
- - [creat-react-app](https://github.com/facebookincubator/create-react-app)  
-   CLI tool used to set up React projects, Very useful as setting up a dev environment for React can be complicated
+   This is the free online version of the book  
+ - [create-react-app](https://github.com/facebookincubator/create-react-app)  
+   CLI tool used to set up React project, very useful, as setting up a dev environment for React can be complicated.  
 
 ### Vue
  -
