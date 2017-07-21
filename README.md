@@ -71,7 +71,7 @@ tags: [videos]
  - [Don't use flexbox for overall page layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
    When, where, and how to use Flexbox vs CSS Grid  
  - [marksheet.io's CSS guide](http://marksheet.io/)  
-   This guide teaches all the basics of CSS, even touching on SASS/SCSS
+   This guide teaches all the basics of CSS, and touches on SASS/SCSS
 
 ### CSS Grid
  - [Grid Garden](http://cssgridgarden.com/)  
@@ -161,7 +161,12 @@ tags: [videos]
  - [SurviveJS React Guide](https://survivejs.com/react/introduction/)  
    This is the free online version of the book  
  - [create-react-app](https://github.com/facebookincubator/create-react-app)  
-   CLI tool used to set up React projects, very useful as setting up a dev environment for React can be complicated.  
+   CLI tool used to set up React projects, very useful as setting up a dev environment for React can be complicated.
+ - [styled-components](https://www.styled-components.com/docs)  
+   Solution for working with css in js, uses tagged template literals  
+ - [glamorous](https://github.com/paypal/glamorous)  
+   Solution for working with css in js, uses plain objects and glamor.js
+   
 
 ### Vue
  - [Official Vue Docs](https://vuejs.org/v2/guide/)  
