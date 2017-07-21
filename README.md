@@ -69,7 +69,9 @@ tags: [videos]
 ## CSS
  - [Mozilla Developer Network (MDN): CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
  - [Don't use flexbox for overall page layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
-   When, where, and how to use Flexbox vs CSS Grid
+   When, where, and how to use Flexbox vs CSS Grid  
+ - [marksheet.io's CSS guide](http://marksheet.io/)  
+   This guide teaches all the basics of CSS, and touches on SASS/SCSS
 
 ### CSS Grid
  - [Grid Garden](http://cssgridgarden.com/)  
@@ -130,6 +132,14 @@ tags: [videos]
  - [Markdown tutorial](http://www.markdowntutorial.com/)  
  - [Github markdown guide](https://guides.github.com/features/mastering-markdown/)  
 
+## Build Tools
+
+### Webpack  
+ - [Official Webpack Docs](https://webpack.js.org/guides/)  
+   Official docs for Webpack, includes guides and API  
+ - [SurviveJS Webpack guide](https://survivejs.com/webpack/preface/)  
+   Excellent in depth guide for working with Webpack version 2
+
 ## JavaScript Frameworks
  - _HINT_: Don't try to learn multiple frameworks at one time.  Get comfortable with vanilla JS, then learn a single framework, and only then should you add a second framework _or_ a second language.
 
@@ -142,7 +152,7 @@ tags: [videos]
  - [ReactJS Utah](https://www.meetup.com/ReactJS-Utah/)  
    tags: [meetups]  
  - [Official React Docs](https://facebook.github.io/react/docs/hello-world.html)  
-   Offical React Docs, contains some tutorials as well as the API  
+   Official React Docs, contains some tutorials as well as the API  
  - [ReactCasts with @cassiozen](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)  
    Biweekly, short React screencasts containing tips, tricks and tutorials.  
    tags: [video, series, mid-level]  
@@ -151,7 +161,16 @@ tags: [videos]
  - [SurviveJS React Guide](https://survivejs.com/react/introduction/)  
    This is the free online version of the book  
  - [create-react-app](https://github.com/facebookincubator/create-react-app)  
-   CLI tool used to set up React project, very useful, as setting up a dev environment for React can be complicated.  
+   CLI tool used to set up React projects, very useful as setting up a dev environment for React can be complicated.
+ - [styled-components](https://www.styled-components.com/docs)  
+   Solution for working with css in js, uses tagged template literals  
+ - [glamorous](https://github.com/paypal/glamorous)  
+   Solution for working with css in js, uses plain objects and glamor.js
+   
 
 ### Vue
- -
+ - [Official Vue Docs](https://vuejs.org/v2/guide/)  
+   Official Vue Docs, contains tutorials, guides and the API
+ - [vue-cli](https://github.com/vuejs/vue-cli)  
+   A simple CLI for scaffolding Vue.js projects.
+   
