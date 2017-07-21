@@ -130,6 +130,14 @@ tags: [videos]
  - [Markdown tutorial](http://www.markdowntutorial.com/)  
  - [Github markdown guide](https://guides.github.com/features/mastering-markdown/)  
 
+## Build Tools
+
+### Webpack  
+ - [Official Webpack Docs](https://webpack.js.org/guides/)  
+   Official docs for Webpack, includes guides and API  
+ - [SurviveJS Webpack guide](https://survivejs.com/webpack/preface/)  
+   Excellent in depth guide for working with Webpack version 2
+
 ## JavaScript Frameworks
  - _HINT_: Don't try to learn multiple frameworks at one time.  Get comfortable with vanilla JS, then learn a single framework, and only then should you add a second framework _or_ a second language.
 
