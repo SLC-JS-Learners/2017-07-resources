@@ -142,7 +142,7 @@ tags: [videos]
  - [ReactJS Utah](https://www.meetup.com/ReactJS-Utah/)  
    tags: [meetups]  
  - [Official React Docs](https://facebook.github.io/react/docs/hello-world.html)  
-   Offical React Docs, contains some tutorials as well as the API  
+   Official React Docs, contains some tutorials as well as the API  
  - [ReactCasts with @cassiozen](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)  
    Biweekly, short React screencasts containing tips, tricks and tutorials.  
    tags: [video, series, mid-level]  
@@ -151,7 +151,11 @@ tags: [videos]
  - [SurviveJS React Guide](https://survivejs.com/react/introduction/)  
    This is the free online version of the book  
  - [create-react-app](https://github.com/facebookincubator/create-react-app)  
-   CLI tool used to set up React project, very useful, as setting up a dev environment for React can be complicated.  
+   CLI tool used to set up React projects, very useful as setting up a dev environment for React can be complicated.  
 
 ### Vue
- -
+ - [Official Vue Docs](https://vuejs.org/v2/guide/)  
+   Official Vue Docs, contains tutorials, guides and the API
+ - [vue-cli](https://github.com/vuejs/vue-cli)  
+   A simple CLI for scaffolding Vue.js projects.
+   
