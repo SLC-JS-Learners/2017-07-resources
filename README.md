@@ -69,7 +69,9 @@ tags: [videos]
 ## CSS
  - [Mozilla Developer Network (MDN): CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
  - [Don't use flexbox for overall page layout](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
-   When, where, and how to use Flexbox vs CSS Grid
+   When, where, and how to use Flexbox vs CSS Grid  
+ - [marksheet.io's CSS guide](http://marksheet.io/)  
+   This guide teaches all the basics of CSS, even touching on SASS/SCSS
 
 ### CSS Grid
  - [Grid Garden](http://cssgridgarden.com/)  
